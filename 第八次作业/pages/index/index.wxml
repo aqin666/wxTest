@@ -1,5 +1,6 @@
 <!--index.wxml-->
 <LinkList/>
+<zujian/>
 <view class="tr">
 <image src="../../images/1.jpg" 
 style="width: 358px;" mode ="widthFix"></image>
