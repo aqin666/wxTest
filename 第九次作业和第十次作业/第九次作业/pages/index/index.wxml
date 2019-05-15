@@ -1,6 +1,7 @@
 <!--index.wxml-->
 <LinkList/>
-<zujian/>
+<lunbotu/>
+<Topmenu />
 <view class="tr">
 <image src="../../images/1.jpg" 
 style="width: 358px;" mode ="widthFix"></image>

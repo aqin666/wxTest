@@ -1,6 +1,0 @@
-{
-  "usingComponents": {
-    "LinkList":"/components/LinkList/LinkList",
-    "zujian": "/components/zujian/zujian"
-  }
-}
