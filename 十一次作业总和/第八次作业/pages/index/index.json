@@ -1,8 +1,0 @@
-{
-  "usingComponents": {
-    "Topmenu": "/components/Topmenu/Topmenu",
-    "LinkList":"/components/LinkList/LinkList",
-    "lunbotu": "/components/lunbotu/lunbotu"
-    
-  }
-}
